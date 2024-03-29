@@ -1,0 +1,17 @@
+[New User](#)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[x] Hide Disable User&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Save User](#)
+
+| ID | User Name | Email | Enabled |
+| ------ | ------ | ------ | ------ |
+| 1 | AdminUser | admin@piworks.net | true|
+| 2 | TestUser |testuser@piworks.net|true |
+
+
+
+>NEW USER
+
+User Name:         <div style="border: 1px solid white; padding: 10px;"> <!--  --></div>
+Display Name:      <div style="border: 1px solid white; padding: 10px;"> <!--  --></div>
+    Phone:         <div style="border: 1px solid white; padding: 10px;"> <!--  --></div>
+Email:             <div style="border: 1px solid white; padding: 10px;"> <!--  --></div>
+User Role:         <div style="border: 1px solid white; padding: 10px;"> <!-- Select User Role...  --></div> >Guest >>Admin >>Super Admin
+Enabled: [] 
